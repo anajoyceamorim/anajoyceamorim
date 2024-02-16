@@ -3,11 +3,12 @@
 </h1>
 
 <h5>I'm learning: </h5>
+
   <h6>C</h6>
-  <img align="center" alt="Aj-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><br>
+  <img align="center" alt="Aj-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <h6>C++</h6>
-  <img align="center" alt="Aj-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"><br>
+  <img align="center" alt="Aj-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <h6>Python</h6>
-  <img align="center" alt="Aj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
+  <img align="center" alt="Aj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <h6>Java (OOP)</h6>
   <img align="center" alt="Aj-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
