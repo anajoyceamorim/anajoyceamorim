@@ -3,7 +3,6 @@
 </h1>
 
 ## I'm learning:
-style="display: inline_block"><br>
   <img align="center" alt="Aj-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><br>
   <img align="center" alt="Aj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
   <img align="center" alt="Aj-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
