@@ -10,7 +10,7 @@ const AnaJoyce = {
     Learning: ["Typescript", "SQLite", "AWS", "NexthJS"],
     Member: {
         Projects: ["Course for beginning into sports programming at MFP (Brazilian Women Programming Marathon)",
-                   "Volunteer at Nimbus Judger",
+                   "Volunteer at Nimbus Judge",
                    "Competitive programmer"]        
     },
     aboutMe: {
