@@ -1,10 +1,24 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=200&size=15&pause=1000&color=9232D4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+i'm+Ana+Joyce+%F0%9F%91%8B;Software+engineer+student!" alt="Typing SVG" /></a>
-</h1>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aj-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Aj-C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Aj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aj-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mill+Goudy&size=30&pause=1000&color=FF69B4&width=435&lines=Let's+code!)
+
+<!-- Javascript (descrição pessoal) -->
+ ```js
+import Developer from 'anajoyceamorim';
+const AnaJoyce = {
+    Languages: ["Python", "C++", "C", "Javascript", "Java"],
+    Learning: ["Typescript", "SQLite", "AWS", "NexthJS"],
+    Member: {
+        Projects: ["Course for beginning into sports programming at MFP (Brazilian Women Programming Marathon)",
+                   "Volunteer at Nimbus Judger",
+                   "Competitive programmer"]        
+    },
+    aboutMe: {
+        loves: ["Technology", "Research", "Creativity", "Innovation"],
+        hobbies: ["Exercising", "Learning languages", "Reading", "Learning"],
+    },
+}
+
+```
+  <!-- Ranking de Linguagens -->
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anajoyceamorim&layout=compact&langs_count=15&theme=dracula&line_height=40&hide=css"/> </a>
