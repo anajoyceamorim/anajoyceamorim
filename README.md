@@ -9,7 +9,8 @@ const AnaJoyce = {
     Languages: ["Python", "C++", "C", "Javascript", "Java"],
     Learning: ["Typescript", "SQLite", "AWS", "NexthJS"],
     Member: {
-        Projects: ["Course for beginning into sports programming at MFP (Brazilian Women Programming Marathon)",
+        Projects: ["Huawei Seeds for The Future"
+                   "Course for beginning into sports programming at MFP (Brazilian Women Programming Marathon)",
                    "Volunteer at Nimbus Judge",
                    "Competitive programmer"]        
     },
