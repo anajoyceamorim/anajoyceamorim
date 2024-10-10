@@ -10,7 +10,7 @@ const AnaJoyce = {
     Learning: ["Typescript", "SQLite", "AWS", "NexthJS"],
     Member: {
         Projects: ["IT intern at Vivo, the largest telephone company in Latin America"
-                   "Fontend developer at Finatec, Foundation for Scientific and Technological Enterprises"
+                   "Frontend developer at Finatec, Foundation for Scientific and Technological Enterprises"
                    "Huawei Seeds for The Future"
                    "Course for beginning into sports programming at MFP (Brazilian Women Programming Marathon)",
                    "Volunteer at Nimbus Judge",
